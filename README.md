@@ -1,5 +1,5 @@
 # API RESTful de Envio de E-mails
-Esta é uma API RESTful criada com o objetivo de fornecer um serviço de envio de e-mails de forma fácil e eficiente. A aplicação permite que os usuários realizem o envio de mensagens por meio de requisições HTTP, oferecendo recursos avançados de validação e persistência de dados.
+Esta é uma API RESTful criada com o objetivo de fornecer um serviço de envio de e-mails de forma fácil e eficiente. A aplicação permite que os usuários realizem o envio de mensagens por meio de requisições HTTP, oferecendo recursos de validação e persistência de dados.
 
 ## Funcionalidades Principais
  - **Envio de E-mails**: Através da API, os usuários podem enviar e-mails para destinatários específicos, fornecendo informações como remetente, destinatário, assunto e conteúdo da mensagem.
